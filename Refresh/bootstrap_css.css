@@ -1,0 +1,72 @@
+.banner{
+    background: url("images/2813143-scaled-1.jpg") no-repeat center center;
+    background-size:cover;
+    margin-top:20px;
+    height:600px;
+    width:100%;
+    text-align: center;
+}
+.banner_content{
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.65);
+    color: #f8f8f8;
+    padding-top:6%;
+    padding-bottom:6%;
+    text-align:center;
+    margin-top:12%;
+    margin-bottom: 12%;
+    overflow: hidden;
+    max-height: 600px;
+}
+#login_form{
+    margin-bottom: 40px;
+}
+.reg_body{
+    margin-top: 100px;
+    padding:0px;
+}
+#login_reg{
+    text-decoration: none;
+}
+#shop_now{
+    color: #f8f8f8;
+    text-decoration: none;
+}
+.p_content{
+    margin-top: 80px;
+    text-align: center;
+}
+.s_content{
+    margin-top:80px;
+    margin-bottom: 250px;
+}
+.log{
+    margin-bottom: 75px;
+}
+.cart{
+    margin-bottom: 350px;
+}
+.success{
+    text-align: center;
+    margin-top: 200px;
+}
+.fc{
+    padding:30px 0 0 0;
+    bottom:0;
+    width:100%;
+}
+footer{
+    background-color:#222;
+    padding-bottom:25px;
+    text-align:center;
+    color:#f8f8f8;
+}/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 4 Jun, 2020, 9:16:36 AM
+    Author     : saake
+*/
+

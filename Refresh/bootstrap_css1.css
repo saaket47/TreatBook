@@ -1,0 +1,187 @@
+.banner{
+    background: url("images/2813143-scaled-1.jpg") no-repeat center center;
+    background-size:cover;
+    margin-top:20px;
+    height: 600px;
+    width:100%;
+    text-align: center;
+}
+.index_p{
+    background: url("images/2813143-scaled-1.jpg") no-repeat center center;
+    background-size:cover;
+    margin-top:100px;
+    /*text-align: center;*/
+}
+.thumbnail>img{
+    height:170px;
+}
+.c-left{
+    float: left;
+}
+.c-right{
+    float:  right;
+}
+.sign{
+    background: url("images/2813143-scaled-1.jpg") no-repeat center center;
+    background-size:cover;
+    width:100%;
+    height:900px;
+    margin-top:20px;
+}
+.search{
+    padding-top: 50px;
+}
+.banner_biz{
+    background: url("images/biz.jpg") no-repeat center center;
+    background-size:cover;
+    margin-top:20px;
+    height:600px;
+    width:100%;
+}
+.container{
+    font-family: 'Archivo';
+}
+.index_p{
+    margin-top:100px;
+    text-align: center;
+}
+.thumbnail>img{
+    height:170px;
+}
+#mymodal{
+    text-align: center;
+}
+#clock{
+    width:80%;
+}
+.about{
+    margin-top:100px;
+    margin-bottom: 100px;
+}
+#peeps{
+    width:300px;
+    height:300px;
+    object-fit: cover;
+    float: left;
+}
+#about_cont{
+    float:left;
+}
+#cust{
+    width:170px;
+    height:170px;
+    object-fit: cover;
+}
+.banner_content{
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.65);
+    color: #f8f8f8;
+    padding-top:6%;
+    padding-bottom:6%;
+    text-align:center;
+    margin-top:12%;
+    margin-bottom: 12%;
+    overflow: hidden;
+    max-height: 600px;
+}
+.sign_form{
+    background-color: rgba(0, 0, 0, 0);
+    color: #f8f8f8;
+    border:0px;
+    font-family:'Archivo';
+    font-weight: normal;
+}
+.biz{
+    background-color: rgba(0, 0, 0, 0.65);
+    margin-top:30%;
+    padding:10px 10px 10px 10px;
+}
+.sign{
+    font-weight: normal;
+}
+.banner_sign{
+    color:black;
+    max-height: 770px;
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 6%;
+    margin-bottom: 100px;
+}
+#login_form{
+    margin-bottom: 40px;
+}
+.reg_body{
+    margin-top: 100px;
+    padding:0px;
+}
+#login_reg{
+    text-decoration: none;
+}
+#shop_now{
+    color: #f8f8f8;
+    text-decoration: none;
+}
+.p_content{
+    margin-top: 80px;
+    text-align: center;
+}
+.s_content{
+    margin-top:80px;
+    margin-bottom: 250px;
+}
+.log{
+    margin-bottom: 75px;
+}
+.cart{
+    margin-bottom: 370px;   
+}
+.success{
+    text-align: center;
+    margin-top: 200px;
+}
+.user1st_jumbo{
+    color:#f8f8f8;
+    background-color: rgba(0, 0, 0, 0.65);
+    margin:12%;
+    padding-top:6%;
+    padding-bottom:6%;
+}
+.color_fade{
+    border: 0px;
+    background-color: rgba(255, 0, 0, 0.5);
+}
+.lefto{
+    float:left;
+}
+.logo-image{
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
+.fc{
+    padding:30px 0 0 0;
+    bottom:0;
+    width:100%;
+    text-align: center;
+}
+.f > a{
+    color:#f8f8f8;
+}
+footer{
+    background-color:#222;
+    color:#f8f8f8;
+    width:100%;
+}
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 4 Jun, 2020, 9:16:36 AM
+    Author     : saake
+*/
+
